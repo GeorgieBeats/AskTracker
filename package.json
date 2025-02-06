@@ -1,9 +1,9 @@
 {
+  "homepage": "http://georgiebeats.github.io/AskTracker/",
   "name": "asktracker",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://georgiebeats.github.io/AskTracker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
